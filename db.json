@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "2040",
+      "id": 1
+    },
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "3020",
+      "id": 2
+    },
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "4050",
+      "id": 3
+    },
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "4050",
+      "id": 4
+    },
+    {
+      "product": "Tomatoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "3030",
+      "id": 5
+    },
+    {
+      "product": "jjjjjjjjjjjjjj",
+      "detail": "ppppppppppppppp",
+      "code": "09090",
+      "id": 6
+    }
+  ]
+}

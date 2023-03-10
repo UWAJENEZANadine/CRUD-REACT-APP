@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto:ital,wght@0,100;0,300;0,400;1,300&display=swap');
+.data-display {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(4, 1fr);
+  background-color: #ccc;
+  padding: 2rem;
+}
+.card-image{
+  margin-top: -2rem;
+ 
+}
+.text-xl{
+  font-family:'Poppins', sans-serif ;
+}
+@media (max-width: 750px){
+  .data-display {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(1, 1fr);
+    background-color: #ccc;
+    padding: 2rem;
+  }
+
+}
